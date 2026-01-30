@@ -163,6 +163,9 @@ Run the bot with these test queries:
 4. **Web Search**: "Who is the CEO of Perplexity?"
 5. **Memory Test**: "What did I ask you earlier?"
 
+   <img width="1918" height="953" alt="Screenshot 2026-01-30 140130" src="https://github.com/user-attachments/assets/12eed399-5d38-4479-bf19-e8fca452c4fd" />
+
+
 ## 📁 Project Structure
 
 ```
